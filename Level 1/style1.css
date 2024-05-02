@@ -1,0 +1,17 @@
+/* universal selector */
+
+* {
+    color: green;
+}
+
+#h101 {
+    color:red;
+}
+
+#h102 {
+    color:blue;
+}
+
+.one {
+    color:purple;
+}
