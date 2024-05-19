@@ -1,0 +1,19 @@
+/* universal selector */
+
+* {
+    color: green;
+}
+
+/* id */
+#h1 {
+    color:red;
+}
+
+#h2 {
+    color:blue;
+}
+
+/* class */
+.one {
+    color:rgb(219, 9, 219);
+}
