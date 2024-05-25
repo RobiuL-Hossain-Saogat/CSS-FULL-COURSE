@@ -1,0 +1,48 @@
+p {
+    text-align: center;
+    /* text-decoration: red underline; */
+}
+
+/* h1 {
+    text-align: center;
+    text-decoration:blue overline;
+} */
+
+/* h2 {
+    text-align: center;
+    text-decoration:gray line-through;
+} */
+
+a {
+    text-decoration: none;
+}
+
+#h1 {
+    font-weight: 100;
+}
+
+#h2 {
+    font-weight: 200;
+}
+
+#h3 {
+    font-weight: 500;
+}
+
+#h4 {
+    font-weight: 900;
+}
+
+#one {
+    line-height: 40px;
+    font-size: 20px;
+    font-family: Arial;
+    text-transform: uppercase;
+}
+
+#two {
+    text-transform: capitalize;
+    line-height: normal;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
